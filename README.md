@@ -2,7 +2,7 @@
 
 Welcome to Textual Translator, a web application deployed on Render, allowing users to translate text from English to various languages using Google Translate API.
 
-_Usage:_
+###_Usage:_
 
 Navigate to the application https://translator-ts0q.onrender.com/.     
 Enter the text you want to translate in English into the text input area.    
