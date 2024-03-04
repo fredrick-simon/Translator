@@ -1,4 +1,4 @@
-  #**Textual Translator**
+  #**Textual Translator**#
 
 Welcome to Textual Translator, a web application deployed on Render, allowing users to translate text from English to various languages using Google Translate API.
 
